@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    margin: 0;
+}
+.image-dice{
+    height: 280px;
+
+}
+.btn{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #8d8dc5;
+    border-radius: 5px;
+    border: solid 2px;
+}
+.btn:hover{
+    background-color: #7878a7;
+    box-shadow: 0px 0px 1px 1px;
+}
+.text-heading{
+    font-size: 60px;
+    background-image: url('./images/background.jpg');
+    color: aliceblue;
+}
+body{
+    margin: 0;
+    background-color:aliceblue
+}
